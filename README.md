@@ -2,5 +2,4 @@
 
 first demo in git
 <br>
-author - Alisha (Kumari)
-
+author - Alisha Kumari
